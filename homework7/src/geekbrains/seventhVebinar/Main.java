@@ -18,7 +18,7 @@ public class Main {
         plateOne.addFood(1);
         cats[2].eat(plateOne);
 
-
+// Добавил комментарий, чтобы создать пулл реквест.
 
 
     }
